@@ -1,0 +1,20 @@
+# Node / Frontend
+frontend/node_modules
+frontend/.next
+frontend/.env.local
+
+# Java / Backend
+backend/target
+backend/.idea
+backend/.classpath
+backend/.project
+backend/.settings
+backend/.env
+
+# Docker
+pgdata
+.env
+*.log
+
+# System
+.DS_Store
