@@ -23,7 +23,7 @@ Checkify to prosta aplikacja internetowa umożliwiająca tworzenie i zarządzani
 
 ### Backend:
 
-- Java 17
+- Java 21
 - Spring Boot
 - PostgreSQL
 
