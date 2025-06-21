@@ -42,7 +42,7 @@ Checkify to prosta aplikacja internetowa umożliwiająca tworzenie i zarządzani
 ### ✅ Komendy:
 
 ```bash
-git clone https://github.com/TWOJA_NAZWA/checkify.git
+git clone https://github.com/kvbqq/checkify.git
 cd checkify
 docker-compose up --build
 ```
